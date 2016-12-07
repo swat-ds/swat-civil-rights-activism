@@ -8,10 +8,10 @@ header.site-header a.site-title {
   color: $red;
   display: block;
   margin-left: 0;
-  font-size: 2 * $h2;
+  font-size: 1.2 * $h2;
 
   & span#home { 
-      font-size: 4 * $h2;  
+      font-size: 1.2 * $h2;  
       -webkit-transition: font-size .3s;
       -moz-transition: font-size .3s;
       -o-transition: font-size .3s;
@@ -19,7 +19,7 @@ header.site-header a.site-title {
   }
 
   @media screen and (min-width: $viewport-medium) {
-    & span#home.little { font-size: 2 * $h2; }
+    & span#home.little { font-size: $h3; }
   }
 }
 
@@ -154,7 +154,7 @@ header.site-header .site-nav {
 
   p {
       color: $dark-gray;
-  font-size: $h3;
+      font-size: 1.4 * $base-font-size;
   }
 
   ul {

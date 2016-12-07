@@ -3,77 +3,19 @@ layout: page
 id: home
 ---
 
-<a href="" id="nav-arrow">^</a>
+# What We'd Like To Do
 
-<div class="panel" id="definition">
+- **Provide as complete a picture** as possible of student activism at Swarthmore in the early 1960s
+- **Assemble historical materials**, from archival records and photographs to letters and diaries to published accounts
+- **Fill in the details** through conducting oral histories with those who participated
+- **Share what we find** by putting our collections online for students and researchers currently working in field and those who may do so in the future
 
-<p>Digital Scholarship at Swarthmore encompasses a growing range of collaborative projects that share a set of basic commitments. To range freely across disciplines and across campus resources. To connect our community&mdash;faculty, students and staff&mdash;as well as communities beyond Swarthmore. To make critical use of digital networked technologies to engage and document scholarship as a process.
-<br/><br/>
-Interested? <a class="email" href="mailto:digitalscholarship@swarthmore.edu">.su tcatnoC</a>
-</p>
+# Why This Is Important
 
-<ul id="services">
-<li><a href="#consult">
-        <h2>consult</h2>
-    </a></li>
-<li><a href="#connect">
-        <h2>connect</h2>
-    </a></li>
-<li><a href="#instruct">
-        <h2>instruct</h2>
-    </a></li>
-<li><a href="#manage">
-        <h2>manage</h2>
-    </a></li>
-<li><a href="#build">
-        <h2>build</h2>
-    </a></li>
-</ul>
-</div>
+The early 1960s was a time of social activism at Swarthmore. The Civil Rights Movement was already well underway and many students were ready to get involved. The college’s Quaker roots provided one source for the activism because of the strong values of equality between genders, races, and ethnic groups. Swarthmore also attracted students who brought an enthusiasm for organizing. The decade’s fervor for change was underway.
 
-<div class="panel" id="consult">
+During the summers, students spread out to work in numerous projects in the South, some of which were run or sponsored by the American Friends Service Committee. During the school year, students became active in Chester, firstly in desegregating an ice skating rink, then in setting up a tutoring program, and later in community organizing and protests to improve the schools. Finally they helped set up CHIP (Chester Home Improvement Project), which was a local version of what Habitat for Humanity became. Students also joined with Gloria Richardson and CNAC (Cambridge Nonviolent Action Committee) in Cambridge, Maryland, to organize, protest and improve conditions there. SNCC was active in Cambridge and at least two Swarthmore students became full-time workers for SNCC. Some of this work has been described in articles and books, but none of these accounts bring the personalities of the Swarthmore activists and leaders alive the way that direct records from them or their close friends and co-activists can. That is one goal for proposing a project to obtain as direct records as possible of the many activities and to fill in critical details about this activist period in college history. We know that current student activists are interested in learning about and from those who came before. We will also document the diversity of projects in which Swarthmore students worked and learn how their initial idealism was tempered by the dangers and threats that arose when they were fully active in the protests and projects.
 
-<h2>/consult</h2>
+# Why We Need To Do This Now
 
-<p>We help with project planning at any stage of the process, whether a half articulated idea or the next phase of a competitive national grant. We work with faculty and students on projects of any scale, from classroom assignments to independent studies, from semester-long projects to multi-year, multi-institutional endeavors. Among other areas, we have expertise in data management, web development and design, data visualization, text analysis and project management.</p>
-
-<!--     History 99 Final Project / END</p>
- -->
-</div>
-
-<div class="panel" id="connect">
-
-<h2>/connect</h2>
-
-<p>We connect faculty and students with the people and resources, both on and off campus. We work closely with ITS, student centers, academic departments and others and will either provide ourselves or help find the expertise and infrastructure necessary for most projects, regardless of department, regardless of apparent simplicity or complexity.
-</p>    
-<!--     Columbia University / University of Pennsylvania / Navajo Technical University / CLIR / TriColleges / The Library Company</p>
- -->
- </div>
-
-<div class="panel" id="instruct">
-
-<h2>/instruct</h2>
-
-<p>We provide technical and critical instruction for specific tools and pieces of software as well as more general best practices. We work with classes, project teams, individual students and faculty, staff members, independent studies and faculty seminars.</p>
-    
-<!--     END / Feminist Media / BarrioEdPHL / Victorian Literature</p>
- --></div>
-
-<div class="panel" id="manage">
-
-<h2>/manage</h2>
-
-<p>For projects that already have committed support, we help assemble and manage teams to approach projects at a variety of sizes and shapes, from finding qualified students to setting up development environments and workflows for collaboration.
-</p>    
-    <!-- Black Liberation 1969 Digital Archive / Navajo Verb Generator / END</p> -->
-</div>
-
-<div class="panel" id="build">
-
-<h2>/build</h2>
-
-<p>Depending on the project and resource availability, we may also be available to offer custom development. When we are able, we like to encourage projects that are ambitious or experimental or that have specific requirements that do not easily fit into existing platforms.
-</p>
-<!--     Black Liberation 1969 Digital Archive / Navajo Verb Generator / Visualizing Translations</p>
- --></div>
+As many of the activists who participated are either Garnet Sages or about to become such, now is a key time to record their memories and reflections on their civil rights activism during their time at Swarthmore. The panel discussion by activists at the 50th Reunion this past June for the Class of 1966 was a highlight of the reunion for many in the class. Some alums also have collections of letters that their parents and friends saved which tell of their work as they did it, and some alums may even have diaries with descriptions of their activities. We have a window of a few years when memories are sharp enough that we can gather the stories, learn of the personalities, bring the times and people alive again, and add materially to the documentary evidence for this period of activism by various students and even some faculty.

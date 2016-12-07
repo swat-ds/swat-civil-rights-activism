@@ -1,45 +1,11 @@
 # Site settings
-title:       ds@swat
+title:       early '60s civil rights activism at swarthmore
 email:       digitalscholarship@swarthmore.edu
 author:      Nabil Kashyap
-description: "Collaborative digital projects for the Swarthmore community and beyond"
+description: "a digital project documenting student activism at Swarthmore during the early '60s"
 baseurl:     ""
 url:         "/"
-date_format: "%b %-d, %Y"
-
-# Prose settings
-prose:
-  rooturl: '_posts'
-  media: 'media'
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "categories"
-        field:
-          element: "multiselect"
-          label: "Add categories"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Left"
-              value: "left"
-            - name: "Right"
-              value: "Right"
-      - name: "date"
-        field:
-          element: "hidden"
-          value: CURRENT_DATETIME
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          value: false             
+date_format: "%b %-d, %Y"       
 
 # Google services
 google_verification:

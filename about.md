@@ -6,13 +6,7 @@ tags: about
 id: about
 ---
 
-This site proudly based on the following open-source projects:
-
-* [Jekyll](http://jekyllrb.com)
-* [pixyll](https://github.com/johnotander/pixyll)
-* [BASSCSS](http://basscss.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+This proposed project is a collaboration between Classes of 1960 through 1966 and McCabe Library with generous support from Ross Ogden.
 
 Questions? Comments? We'd love to hear from you: 
 <a class="email" href="mailto:digitalscholarship@swarthmore.edu">ude.eromhtraws@pihsralohcslatigid</a>
