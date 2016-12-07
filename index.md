@@ -6,8 +6,8 @@ id: home
 # What We'd Like To Do
 
 - **Provide as complete a picture** as possible of student activism at Swarthmore in the early 1960s
-- **Assemble historical materials**, from archival records and photographs to letters and diaries to published accounts
-- **Fill in the details** through conducting oral histories with those who participated
+- **Assemble historical materials** from archival records and photographs to letters and diaries to published accounts
+- **Conduct oral histories** with those who participated in order to tell the full story
 - **Share what we find** by putting our collections online for students and researchers currently working in field and those who may do so in the future
 
 # Why This Is Important
