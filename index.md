@@ -7,7 +7,7 @@ id: home
 
 - **Provide as complete a picture** as possible of student activism at Swarthmore in the early 1960s
 - **Assemble historical materials** from archival records and photographs to letters and diaries to published accounts
-- **Conduct oral histories** with those who participated in order to tell the full story
+- **Conduct oral histories** with those who participated and gather a sense of the lived experience of a pivotal time in Swarthmore history
 - **Share what we find** by putting our collections online for students and researchers currently working in field and those who may do so in the future
 
 # Why This Is Important
